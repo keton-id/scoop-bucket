@@ -1,2 +1,1 @@
-# scoop-bucket
-scoop-bucket by keton-id
+# scoop-bucket by keton-id
