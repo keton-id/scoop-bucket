@@ -1,17 +1,17 @@
 {
-  "version": "0.7.0",
+  "version": "0.9.5",
   "description": "Zero-knowledge secret injection runtime for AI agents",
   "homepage": "https://github.com/keton-id/cora",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/keton-id/cora/releases/download/v0.7.0/cr-0.7.0-x86_64-windows-preview.zip",
-      "hash": "c27e8a7b9e5ed8e7102014b6edbb5d2c434306eb8ceff5bffe384200ef4ad3d4",
+      "url": "https://github.com/keton-id/cora/releases/download/v0.9.5/cr-0.9.5-x86_64-windows.zip",
+      "hash": "d0cc6b4c8fdd7185a21d274f8c73e038a9c516705909494e9ed9d2744fde9381",
       "bin": "cr.exe"
     },
     "arm64": {
-      "url": "https://github.com/keton-id/cora/releases/download/v0.7.0/cr-0.7.0-aarch64-windows-preview.zip",
-      "hash": "c7c5a19dfceb26a5813e2c083fd8d6fb93ba422d85b1fcb44e276f21ebb4eb6a",
+      "url": "https://github.com/keton-id/cora/releases/download/v0.9.5/cr-0.9.5-aarch64-windows.zip",
+      "hash": "e913b1ca535d263503ec23891905b0b308472e3b075cd2ff3d8b9ce9db6c0ffe",
       "bin": "cr.exe"
     }
   },
@@ -19,10 +19,10 @@
   "autoupdate": {
     "architecture": {
       "64bit": {
-        "url": "https://github.com/keton-id/cora/releases/download/v$version/cr-$version-x86_64-windows-preview.zip"
+        "url": "https://github.com/keton-id/cora/releases/download/v$version/cr-$version-x86_64-windows.zip"
       },
       "arm64": {
-        "url": "https://github.com/keton-id/cora/releases/download/v$version/cr-$version-aarch64-windows-preview.zip"
+        "url": "https://github.com/keton-id/cora/releases/download/v$version/cr-$version-aarch64-windows.zip"
       }
     }
   }
