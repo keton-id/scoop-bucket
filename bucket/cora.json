@@ -1,17 +1,17 @@
 {
-  "version": "0.10.1",
+  "version": "0.11.0",
   "description": "Zero-knowledge secret injection runtime for AI agents",
   "homepage": "https://github.com/keton-id/cora",
   "license": "AGPL-3.0-only",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/keton-id/cora/releases/download/v0.10.1/cr-0.10.1-x86_64-windows.zip",
-      "hash": "1c51e164402c5498240fe779585050a491271089919be72b0d3b6c624681d82b",
+      "url": "https://github.com/keton-id/cora/releases/download/v0.11.0/cr-0.11.0-x86_64-windows.zip",
+      "hash": "08e1859cc80123949c48dc469889fefcb825d6d2e840623775b24e693e57d658",
       "bin": "cr.exe"
     },
     "arm64": {
-      "url": "https://github.com/keton-id/cora/releases/download/v0.10.1/cr-0.10.1-aarch64-windows.zip",
-      "hash": "ac7abb4184022c15d37de1d8c691d359a79c8206e07da69f7d70d726ef1c4709",
+      "url": "https://github.com/keton-id/cora/releases/download/v0.11.0/cr-0.11.0-aarch64-windows.zip",
+      "hash": "edb6278b25ecc4ca20e7ec4a512a9da925f5b9bd8c3751399fc24d876360e676",
       "bin": "cr.exe"
     }
   },
