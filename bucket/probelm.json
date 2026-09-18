@@ -6,11 +6,11 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/keton-id/probelm/releases/download/v1.0.0/probelm-windows-x86_64.zip",
-      "hash": "8e2696a55cdf4744c2e6a7b0fdd9d99840c524b2b44e5be727502b696e9a3f95"
+      "hash": "c2bf1f4550463667ed8c43780aa4b4a782b95fe875ea0830b7ce947752532e66"
     },
     "arm64": {
       "url": "https://github.com/keton-id/probelm/releases/download/v1.0.0/probelm-windows-aarch64.zip",
-      "hash": "50b6f8b692c5b0a6ae7f7e8233163fe9690bd9f468c70e645f5d04097d2fff3d"
+      "hash": "208509518099e767a61901d20744f2b8e20fdd087fc3d2b6f212f6ec147014d1"
     }
   },
   "bin": [
